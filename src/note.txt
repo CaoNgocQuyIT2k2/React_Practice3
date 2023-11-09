@@ -1,0 +1,7 @@
+-- Ngày 1
+mọi thứ render lên layout đều phải gắn vào App 
+---Ngày 2: state 
+state: quản lí data liên quan đến việc update layout=> thay đổi state => 1 cách duy nhất => this.setState
+state ở đâu thì viết setState ở đó
+--- Ngày 3: 
+props ~ giao tiếp giữa 2 Component (cha, con)
